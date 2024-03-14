@@ -1,3 +1,4 @@
+-first run "pip install psycopg2"
 -create new DB in pgadmin called school
 -open query tool
 -open and run "create student table.sql"
